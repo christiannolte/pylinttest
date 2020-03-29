@@ -4,6 +4,6 @@ def mytest():
   print("noch vorher")
   time.sleep(1)
   return 1
-  print "nachher"
+  print("nachher")
 
   mytest()
